@@ -1,0 +1,24 @@
+th{
+    text-align:center;
+    background-color: #800020;
+    color:white;
+    padding:0;
+    border:0;
+}   
+a{
+    color:orange;
+}
+table{
+    border-width: 100%;
+    border-collapse:collapse;
+    width:100%;
+}
+
+body{
+    background-color: #ffffdd;
+}
+header a{
+    color:orange;
+}
+ 
+
